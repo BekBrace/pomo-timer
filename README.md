@@ -45,5 +45,7 @@ By working on this project, you'll gain hands-on experience in essential C conce
 - Breaking down the program into smaller functions, making it easier to understand, maintain, and extend
 
 
-Feel free to customize the content further to match your style, Amir!
+Feel free to customize the content further to match your style.
+Cheers,
+Amir!
 
